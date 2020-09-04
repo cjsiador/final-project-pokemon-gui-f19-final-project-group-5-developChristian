@@ -2,7 +2,7 @@ import java.util.Random;
 /**
 * Charizard Pokemon object class.
 * Subclass of Charmeleon
-* @author CHOW CHI HUNG, Jinglei Tong
+* @author Christian Siador
 * @since 10/8/2019
 */
 public class Charizard extends Charmeleon implements FlyingType {
